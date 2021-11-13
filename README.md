@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rodrigomirandav
+- 👋 Hi, I’m Rodrigo de Miranda Videira
 - 🏙  I'm living in São Paulo, Brazil
 - 👀 I’m interested in python, R, data science, big data, hadoop, spark, julia, mongdb, sql server...
 - 🌱 I’m currently learning big data and data science
